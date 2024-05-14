@@ -17,7 +17,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## 📚 Materiais
 
-- [Notion Template](https://www.notion.so/Podcast-AI-Studio-b555e18d3d8c4c56b17ce2647f9337b4?pvs=4)
+- [Notion Template](https://www.notion.so/Podcast-AI-Studio-f66a3d2999a8418c90cd631f906cee6b?pvs=4)
 
 ---
 
